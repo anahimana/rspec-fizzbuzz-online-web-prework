@@ -4,3 +4,4 @@ def fizzbuzz(num)
   puts `Hello #{num}`
 end
 
+fizzbuzz(3)
