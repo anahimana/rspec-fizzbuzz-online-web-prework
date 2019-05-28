@@ -4,7 +4,7 @@ require 'pry'
 
 def fizzbuzz(num)
   if num % 3 == 0
-    puts num % 3
+    # puts num % 3
     # "Fizz"
   elsif num % 5 == 0
     # puts num % 5
