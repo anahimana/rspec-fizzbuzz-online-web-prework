@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(num)
-  puts `Hello #{num}`
+  puts "Hello #{num}"
 end
 
 fizzbuzz(3)
