@@ -6,10 +6,8 @@ def fizzbuzz(num)
   if num % 3 == 0 && num % 5 == 0
     "FizzBuzz"
   elsif num % 3 == 0
-    # puts num % 3
     "Fizz"
   elsif num % 5 == 0
-    # puts num % 5
     "Buzz"
   else
     return
@@ -17,7 +15,7 @@ def fizzbuzz(num)
 end
 
 puts fizzbuzz(3)
-puts fizzbuzz(5)
-puts fizzbuzz(15)
-puts fizzbuzz(4)
+# puts fizzbuzz(5)
+# puts fizzbuzz(15)
+# puts fizzbuzz(4)
 
