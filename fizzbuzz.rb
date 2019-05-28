@@ -14,5 +14,5 @@ end
 puts fizzbuzz(3)
 puts fizzbuzz(5)
 puts fizzbuzz(15)
-puts fizzbuzz(12)
+puts fizzbuzz(4)
 
