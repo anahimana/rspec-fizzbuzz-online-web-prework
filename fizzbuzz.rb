@@ -11,8 +11,8 @@ def fizzbuzz(num)
   end
 end
 
-fizzbuzz(3)
-fizzbuzz(5)
-fizzbuzz(15)
-fizzbuzz(12)
+puts fizzbuzz(3)
+puts fizzbuzz(5)
+puts fizzbuzz(15)
+puts fizzbuzz(12)
 
