@@ -5,13 +5,12 @@ require 'pry'
 def fizzbuzz(num)
   if num % 3 == 0
     puts num % 3
-    "Fizz"
+    # "Fizz"
   elsif num % 5 == 0
-    puts num % 5
+    # puts num % 5
     "Buzz"
   elsif num % 3 == 0 && num % 5 == 0
     "FizzBuzz"
-  binding.pry
   else
     return
   end
