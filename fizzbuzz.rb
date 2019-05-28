@@ -4,13 +4,13 @@ require 'pry'
 
 def fizzbuzz(num)
   if num % 3 == 0 && num % 5 == 0
-    return "FizzBuzz"
+    "FizzBuzz"
   elsif num % 3 == 0
     # puts num % 3
-    return "Fizz"
+    "Fizz"
   elsif num % 5 == 0
     # puts num % 5
-    return "Buzz"
+    "Buzz"
   else
     return
   end
